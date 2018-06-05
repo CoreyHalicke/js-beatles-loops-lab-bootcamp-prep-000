@@ -83,6 +83,20 @@ function iLoveTheBeatles(number) {
 
 
 
+function iLoveTheBeatles(number) {
+  //we use the number passed in - no need to create a new one
+  
+  var empty = []
 
+  do {
+    //we need to push the string into the empty array using .push
+    
+    //we also need to increment the number
+    number++
+  } while (number < 15)
+    
+ //we return the array down here
+  return empty
+}
 
 
