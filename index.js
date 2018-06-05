@@ -70,7 +70,6 @@ function johnLennonFacts(facts) {
 
 
 function iLoveTheBeatles(number) {
-  let i = 0
   var empty = []
   do {
     number[i] = "I love the Beatles!";
