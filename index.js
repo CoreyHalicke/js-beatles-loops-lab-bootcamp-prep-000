@@ -75,7 +75,6 @@ function iLoveTheBeatles(number) {
     number[i] = "I love the Beatles!";
   }
   while (i < number.length || i < 15) {
-    i++
   }
   return empty
 }
